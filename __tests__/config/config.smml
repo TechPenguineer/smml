@@ -1,0 +1,8 @@
+[
+    DATA=
+    {
+        "OBJ1" = "Hello World";
+        "OBJ2" = "Object #2";
+    };
+    OBJ="PLAIN OBJ";
+]
